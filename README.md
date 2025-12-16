@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, i'm Davi, passionate software developer from Brazil.</h1>
+<h1 align="center">Hi there, i'm Davi, a passionate software developer from Brazil.</h1>
 
 <h3 align="left">Contact me in my email ;)</h3>
 davilopesbeltramini@gmail.com
