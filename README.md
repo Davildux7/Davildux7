@@ -45,4 +45,10 @@
 
   [![Discord](https://img.shields.io/badge/Discord-Davildux7-%235865F2?style=for-the-badge&logo=discord)](https://discord.com/users/823931176149712916)
 
+  ---
+
+  ### Or check my more refined work
+
+  [![Itch.io](https://img.shields.io/badge/Itch.io-Davildux-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://davildux.itch.io)
+
 </div>
