@@ -5,7 +5,9 @@ davilopesbeltramini@gmail.com
 </p>
 https://discord.com/users/823931176149712916
 </p>
-
+<h3 align="left">Or check my itch page</h3>
+</p>
+https://davildux.itch.io
 <hr>
 
 <h3 align="middle">Familiarized with:</h3>
