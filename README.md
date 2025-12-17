@@ -1,17 +1,48 @@
-<h1 align="center">Hi there, i'm Davi, a passionate software developer from Brazil.</h1>
-<hr>
-<h3 align="left">Contact me in my email or Discord ;)</h3>
-davilopesbeltramini@gmail.com
-</p>
-https://discord.com/users/823931176149712916
-</p>
-<h3 align="left">Or check my itch page</h3>
-</p>
-https://davildux.itch.io
-<hr>
+<div align="center">
 
-<h3 align="middle">Familiarized with:</h3>
-<p align="middle"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> </a> </p> 
-<hr>
-<h3 align="middle">Basic knowledge, but willing to learn more about:</h3>
-<p align="middle" <a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  # Hi, I'm Davi.
+
+  ### A software developer and game creator from Brazil 🇧🇷
+
+  I specialize in **Godot (GDScript)** and **Python Automation**.
+
+  ---
+  
+  > *I love the intersection between code and art.*
+
+  ---
+
+  I don't just write scripts; I build tools, create assets, and design systems that feel good to use.
+
+  ---
+
+  ## My Tech Stack
+
+  | **Domain** | **Technologies** |
+  | :--- | :--- |
+  | **Engine** | ![Godot Engine](https://img.shields.io/badge/Godot_4.x-%23478CB0?style=for-the-badge&logo=godot-engine&logoColor=white) |
+  | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+  | **Art & UI** | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+  | **Audio** | ![BeepBox](https://img.shields.io/badge/BeepBox-Music_Synth-purple?style=for-the-badge) |
+
+  ---
+
+  ## Commissions & Freelance
+
+  ![Status](https://img.shields.io/badge/STATUS-OPEN_FOR_COMMISSIONS-77DD77?style=for-the-badge)
+
+  If you need:
+  * A custom Godot mechanic or system.
+  * Python scripts to automate your workflow.
+  * Simple low poly models.
+  * Retro music synth.
+  * Pixel Art assets of any kind.
+  * Simple User Interfaces.
+
+  ---
+
+  ### Get in touch
+
+  [![Discord](https://img.shields.io/badge/Discord-Davildux7-%235865F2?style=for-the-badge&logo=discord)](https://discord.com/users/823931176149712916)
+
+</div>
