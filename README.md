@@ -31,6 +31,8 @@
 
   ![Status](https://img.shields.io/badge/STATUS-OPEN_FOR_COMMISSIONS-77DD77?style=for-the-badge)
 
+<div align="left">
+
   If you need:
   * A custom Godot mechanic or system.
   * Python scripts to automate your workflow.
@@ -38,6 +40,8 @@
   * Retro music synth.
   * Pixel Art assets of any kind.
   * Simple User Interfaces.
+
+<div align=center>
 
   ---
 
