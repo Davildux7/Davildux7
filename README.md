@@ -4,8 +4,6 @@
 
   ### A software developer and game creator from Brazil 🇧🇷
 
-  I specialize in **Godot (GDScript)** and **Python Automation**.
-
   ---
   
   > *I love the intersection between code and art.*
@@ -54,5 +52,9 @@
   ### Or check my more refined work
 
   [![Itch.io](https://img.shields.io/badge/Itch.io-Davildux-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://davildux.itch.io)
+
+  ## If you like my work, you con support me on Ko-Fi !!
+
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U3V6206DPC)
 
 </div>
